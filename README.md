@@ -1,7 +1,7 @@
 ## BOOKSHELF API
 
 ----
-This project is an API
+Get information about books via a RESTful API
 
 ---
 #### Pre-requisites
